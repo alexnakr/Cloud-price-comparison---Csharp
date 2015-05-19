@@ -1,0 +1,2 @@
+E:\Dropbox\Dropbox\Colman\Cloud\MultiLayerProj\MultiLayerProj\bin\Debug\ServiceConfiguration.cscfg
+E:\Dropbox\Dropbox\Colman\Cloud\MultiLayerProj\MultiLayerProj\bin\Debug\ServiceDefinition.csdef
